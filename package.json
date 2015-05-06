@@ -1,0 +1,9 @@
+{
+	"name": "intern",
+	"version": "0.0.1",
+	"description": "Functional testing example with intern and chai assert",
+	"dependencies": {
+		"intern": "*",
+    "chai": "*"
+	}
+}
